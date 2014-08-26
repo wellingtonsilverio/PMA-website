@@ -1,0 +1,20 @@
+html, body{ overflow-x: hidden; }
+
+.full-row { width: 100%; }
+.slide { margin-bottom: 60px; }
+
+.single-item img{ width: 100%; }
+
+.sec-secondary { background-color: #59ffb8; padding-bottom: 10px; padding-top: 40px; margin-bottom: 50px; margin-top: 50px; }
+
+.destaque{  background-size: auto 100%; background-position: center; min-height: 300px; margin: 8px; }
+.subdestaque{  background-size: auto 100%; background-position: center; min-height: 300px; margin: 8px; }
+.noticia {  }
+.categoria { margin-bottom: 2px; }
+.noticia img{ width: 110px; }
+
+.footer{ background-color: #e9e9e9; margin: 0; padding-bottom: 10px; padding-top: 40px; }
+
+.bgAdmin{ background-color: #e9e9e9; }
+.paineldelogin { padding: 30px; width:400px; margin: 0 auto; margin-top:200px; background-color: #fff; }
+.paineldelogin div{ text-align: center; }
